@@ -1,1 +1,2 @@
-hi srinivas
+id,name,mobile_no,password
+1001,srinivas,7893683775,123
