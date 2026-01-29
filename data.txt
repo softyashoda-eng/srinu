@@ -1,2 +1,3 @@
 id,name,mobile_no,password
 1001,srinivas,7893683775,123
+1002,chittibabu,7386069688,123
