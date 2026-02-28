@@ -5,3 +5,8 @@ label[for="name"]
   color: #333;
   margin-right: 10px;
 }
+.content1{
+ font-size:25px;
+  color:red;
+  background-color: brown;
+}
