@@ -13,3 +13,4 @@ fetch('data.txt')
     console.error('Error:', error);
     document.getElementById('content').textContent = 'Failed to load data.';
   });
+

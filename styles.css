@@ -10,4 +10,6 @@ label[for="name"]
   color:white;
   background-color: lightgreen;
   display: flex;
+  max-width: 200;
+  padding: auto;
 }
